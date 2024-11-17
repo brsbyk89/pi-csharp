@@ -6,6 +6,8 @@ using Newtonsoft.Json;
 using RestSharp;
 using stellar_dotnet_sdk.responses;
 using stellar_dotnet_sdk;
+using PiNetworkNet.src.Dto;
+using PiNetworkNet.src.Helpers.Exception;
 
 namespace PiNetworkNet
 {
